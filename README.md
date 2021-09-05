@@ -10,4 +10,4 @@ I came up with the idea of:
   
   After conversion, multiplying each by the correct power of 2 according to its position
 
-this sped the processing time up quite a bit!
+This sped the processing time up quite a bit!
